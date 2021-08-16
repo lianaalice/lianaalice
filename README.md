@@ -22,9 +22,10 @@
 -------------------------------------------------
 
 <div align="center">
- <img  alt="mulher ciclista" src="https://user-images.githubusercontent.com/62564003/129539434-c2be0340-886b-4e09-a9b2-b07ae932f429.png">  
-<img  alt="mulher ciclista" src="https://user-images.githubusercontent.com/62564003/129545991-db1ae127-f6ce-470f-80b7-ea8eb7636de9.png">
+ <img width="100px"  alt="mulher ciclista" src="https://user-images.githubusercontent.com/62564003/129539434-c2be0340-886b-4e09-a9b2-b07ae932f429.png">  
+<img width="100px" alt="mulher fazendo estrelinha" src="https://user-images.githubusercontent.com/62564003/129545991-db1ae127-f6ce-470f-80b7-ea8eb7636de9.png">
   </div>
+
 <div align="center" style="display:inline_block"><br>
   <img alt="Javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -38,32 +39,25 @@
 
 ## repositórios fixados | pinned repos 
 
-<div align="center"><br>
+<div><br>
   <a href="https://github.com/lianaalice/capa-visibilidade-lgbt">
-    <img height="160em"  src="https://github-readme-stats.vercel.app/api/pin/?username=lianaalice&repo=capa-visibilidade-lgbt&layout=compact&langs_count=7&theme=radical"/>
+    <img height="140em"  src="https://github-readme-stats.vercel.app/api/pin/?username=lianaalice&repo=capa-visibilidade-lgbt&layout=compact&langs_count=7&theme=dracula"/>
   </a>  
   <a href="https://github.com/lianaalice/Teens-HTML-CSS-I">
-    <img height="160em" width="580em" src="https://github-readme-stats.vercel.app/api/pin/?username=lianaalice&repo=Teens-HTML-CSS-I&layout=compact&langs_count=7&theme=radical"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=lianaalice&repo=Teens-HTML-CSS-I&layout=compact&langs_count=7&theme=dracula"/>
   </a>  
-
------------------------------------------------ 
-
   <a href="https://github.com/lianaalice/T9-projeto-1-m-de-maravilhosa">
-    <img height="160em"  src="https://github-readme-stats.vercel.app/api/pin/?username=lianaalice&repo=T9-projeto-1-m-de-maravilhosa&layout=compact&langs_count=7&theme=radical"/>
+    <img height="140em"  src="https://github-readme-stats.vercel.app/api/pin/?username=lianaalice&repo=T9-projeto-1-m-de-maravilhosa&layout=compact&langs_count=7&theme=dracula"/>
   </a>  
   <a href="https://github.com/lianaalice/aluraquiz-lgbt">
-    <img height="160em"   src="https://github-readme-stats.vercel.app/api/pin/?username=lianaalice&repo=aluraquiz-lgbt&layout=compact&langs_count=7&theme=radical"/>
+    <img height="140em"   src="https://github-readme-stats.vercel.app/api/pin/?username=lianaalice&repo=aluraquiz-lgbt&layout=compact&langs_count=7&theme=dracula"/>
   </a>  
-
------------------------------------------------
-
   <a href="https://github.com/lianaalice/On10-TodasEmTech-HTML-CSS">
-    <img height="160em"  src="https://github-readme-stats.vercel.app/api/pin/?username=lianaalice&repo=On10-TodasEmTech-HTML-CSS&layout=compact&langs_count=7&theme=radical"/>
+    <img height="140em"  src="https://github-readme-stats.vercel.app/api/pin/?username=lianaalice&repo=On10-TodasEmTech-HTML-CSS&layout=compact&langs_count=7&theme=dracula"/>
   </a>  
   <a href="https://github.com/lianaalice/On11-TodasEmTech-Javascript-I">
-   <img height="160em"  src="https://github-readme-stats.vercel.app/api/pin/?username=lianaalice&repo=On11-TodasEmTech-Javascript-I&layout=compact&langs_count=7&theme=radical"/>
+   <img height="140em"  src="https://github-readme-stats.vercel.app/api/pin/?username=lianaalice&repo=On11-TodasEmTech-Javascript-I&layout=compact&langs_count=7&theme=dracula"/>
   </a>  
 </div>
-
 
 #
