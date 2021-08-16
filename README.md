@@ -33,30 +33,30 @@
   <img alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<br><br><br>
+<br>
 
 -------------------------------------------------
 
 ## repositórios fixados | pinned repos 
 
-<div><br>
+<div align="center"><br>
   <a href="https://github.com/lianaalice/capa-visibilidade-lgbt">
-    <img height="140em"  src="https://github-readme-stats.vercel.app/api/pin/?username=lianaalice&repo=capa-visibilidade-lgbt&layout=compact&langs_count=7&theme=dracula"/>
+    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=lianaalice&repo=capa-visibilidade-lgbt&layout=default"/>
   </a>  
   <a href="https://github.com/lianaalice/Teens-HTML-CSS-I">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=lianaalice&repo=Teens-HTML-CSS-I&layout=compact&langs_count=7&theme=dracula"/>
+    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=lianaalice&repo=Teens-HTML-CSS-I&layout=default"/>
   </a>  
   <a href="https://github.com/lianaalice/T9-projeto-1-m-de-maravilhosa">
-    <img height="140em"  src="https://github-readme-stats.vercel.app/api/pin/?username=lianaalice&repo=T9-projeto-1-m-de-maravilhosa&layout=compact&langs_count=7&theme=dracula"/>
+    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=lianaalice&repo=T9-projeto-1-m-de-maravilhosa&layout=default"/>
   </a>  
   <a href="https://github.com/lianaalice/aluraquiz-lgbt">
-    <img height="140em"   src="https://github-readme-stats.vercel.app/api/pin/?username=lianaalice&repo=aluraquiz-lgbt&layout=compact&langs_count=7&theme=dracula"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lianaalice&repo=aluraquiz-lgbt&layout=default"/>
   </a>  
   <a href="https://github.com/lianaalice/On10-TodasEmTech-HTML-CSS">
-    <img height="140em"  src="https://github-readme-stats.vercel.app/api/pin/?username=lianaalice&repo=On10-TodasEmTech-HTML-CSS&layout=compact&langs_count=7&theme=dracula"/>
+    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=lianaalice&repo=On10-TodasEmTech-HTML-CSS&layout=default"/>
   </a>  
   <a href="https://github.com/lianaalice/On11-TodasEmTech-Javascript-I">
-   <img height="140em"  src="https://github-readme-stats.vercel.app/api/pin/?username=lianaalice&repo=On11-TodasEmTech-Javascript-I&layout=compact&langs_count=7&theme=dracula"/>
+   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=lianaalice&repo=On11-TodasEmTech-Javascript-I&layout=default"/>
   </a>  
 </div>
 
